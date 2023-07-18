@@ -1,8 +1,8 @@
 #!/bin/bash
 
-contador=1
+n=1
 
-while [ $contador -lt 100 ]; do
-    echo "$contador"
-    contador=$((contador + 2))
+while [ $n -lt 100 ]; do
+    echo "$n"
+    n=$((contador + 2))
 done
