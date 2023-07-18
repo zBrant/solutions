@@ -12,4 +12,4 @@ then
     echo "SCALENE"
 else
     echo "ISOSCELES"
-f
+fi
